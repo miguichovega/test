@@ -1,2 +1,5 @@
 # test
-cursoGIT
+comandos estudiados
+git init
+git clone
+git status
